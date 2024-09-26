@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "RUI2-RMX3191-kernel-RELEASE-no-ksu",
-      "repo": "https://github.com/cumaRull/kernel_realme_RMX3191",
-      "branch": "even-rmui2",
+      "repo": "https://github.com/cumaRull/kernel_realme_even_rui4",
+      "branch": "master",
       "device": "even",
-      "defconfig": "even_defconfig",
+      "defconfig": "k68v1_64_k419_defconfig",
       "kbuilduser": "ISMASRULL",
       "kbuildhost": "Trident",
       "kbuildtime": "Asia/Jakarta"
