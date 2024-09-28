@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "RUI2-RMX3191-kernel-RELEASE-no-ksu",
-      "repo": "https://github.com/cumaRull/kernel_realme_even_rui4",
-      "branch": "master",
+      "name": "RUI3-RMX3191-kernel-RELEASE-no-ksu",
+      "repo": "https://github.com/realme-mt6768-devs/kernel_realme_even",
+      "branch": "deprecated/android-4.14-stable",
       "device": "even",
-      "defconfig": "k68v1_64_k419_defconfig",
+      "defconfig": "even_defconfig",
       "kbuilduser": "ISMASRULL",
       "kbuildhost": "Trident",
       "kbuildtime": "Asia/Jakarta"
